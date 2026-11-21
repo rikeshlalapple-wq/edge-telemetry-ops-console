@@ -1,0 +1,11 @@
+{
+  "hub_host": "127.0.0.1",
+  "hub_port": 8090,
+  "edge_host": "100.64.0.10",
+  "edge_ssh_port": 8022,
+  "edge_user": "edge_operator",
+  "db_filename": "ingested_telemetry.db",
+  "retention_days": 30,
+  "ollama_endpoint": "http://127.0.0.1:11434",
+  "preferred_models": ["qwen2.5:1.5b", "llama3.2:1b"]
+}

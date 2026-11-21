@@ -1,0 +1,11 @@
+*.db
+*.db-wal
+*.db-shm
+*.log
+*.bak
+__pycache__/
+*.pyc
+.env
+ops_config.json
+backups/
+logs/
